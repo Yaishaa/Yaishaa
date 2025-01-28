@@ -18,13 +18,13 @@ Salut ! Je suis un développeur passionné, toujours curieux d'apprendre et de p
   - Expérimentation avec des frameworks comme Django et Flask  
 
 ## 📈 Stats GitHub
-![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=TonNomUtilisateur&show_icons=true&theme=radical)  
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TonNomUtilisateur&layout=compact&theme=radical)
+![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=Yaishaa&show_icons=true&theme=radical)  
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaishaa&layout=compact&theme=radical)
 
 ## 💬 Contact
 - 🐦 Twitter : [@TonPseudoTwitter](https://twitter.com/TonPseudoTwitter)  
 - 💼 LinkedIn : [TonProfilLinkedIn](https://linkedin.com/in/TonProfilLinkedIn)  
-- 📧 Mail : [TonAdresseMail](mailto:TonAdresseMail)
+- 📧 Mail : [TonAdresseMail](mailto:traoreaissata423@gmail.com)
 
 ---
 
