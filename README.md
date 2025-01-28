@@ -1,16 +1,31 @@
-## Hi there 👋
+# 💻 Bienvenue sur mon GitHub !
 
-<!--
-**Yaishaa/Yaishaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♂️ Qui suis-je ?
+Salut ! Je suis un développeur passionné, toujours curieux d'apprendre et de partager mes connaissances. Actuellement, je travaille sur des projets **Angular** tout en me perfectionnant dans **Python**, une de mes nouvelles aventures tech. 🚀
 
-Here are some ideas to get you started:
+## ⚡ Technologies & Compétences
+- **Frontend :** Angular, TypeScript, HTML5, CSS3  
+- **Backend :** Python (en cours d'apprentissage), Node.js  
+- **Autres outils :** Git, Docker, VS Code, etc.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Ce que je fais ici
+- 💡 **Projets actuels :**  
+  - Développement d'applications Angular 🅰️  
+  - Exploration et apprentissage de Python 🐍  
+
+- 🌱 **À venir :**  
+  - Intégration de Python dans mes projets full-stack  
+  - Expérimentation avec des frameworks comme Django et Flask  
+
+## 📈 Stats GitHub
+![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=TonNomUtilisateur&show_icons=true&theme=radical)  
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TonNomUtilisateur&layout=compact&theme=radical)
+
+## 💬 Contact
+- 🐦 Twitter : [@TonPseudoTwitter](https://twitter.com/TonPseudoTwitter)  
+- 💼 LinkedIn : [TonProfilLinkedIn](https://linkedin.com/in/TonProfilLinkedIn)  
+- 📧 Mail : [TonAdresseMail](mailto:TonAdresseMail)
+
+---
+
+✨ Merci de visiter mon profil ! Si quelque chose t'intéresse, n'hésite pas à me contacter ou à contribuer à mes projets. 🚀
