@@ -1,7 +1,7 @@
 # 💻 Bienvenue sur mon GitHub !
 
 ## 🙋‍♂️ Qui suis-je ?
-Salut ! Je suis un développeur passionné, toujours curieux d'apprendre et de partager mes connaissances. Actuellement, je travaille sur des projets **Angular** tout en me perfectionnant dans **Python**, une de mes nouvelles aventures tech. 🚀
+Salut ! Je suis une développeuse passionnée, toujours curieuse d'apprendre et de partager mes connaissances. Actuellement, je travaille sur des projets **Angular** tout en me perfectionnant dans **Python**, une de mes nouvelles aventures tech. 🚀
 
 ## ⚡ Technologies & Compétences
 - **Frontend :** Angular, TypeScript, HTML5, CSS3  
